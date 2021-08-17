@@ -1,1 +1,1 @@
-# Disease
+# Alzeihmers Disease Detection
