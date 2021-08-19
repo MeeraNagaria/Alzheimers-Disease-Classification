@@ -1,1 +1,0 @@
-# Alzeihmers Disease Detection
